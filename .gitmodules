@@ -1,0 +1,6 @@
+[submodule "meu-blog"]
+	path = meu-blog
+	url = https://github.com/788449534200421soares/meu-blog.git
+[submodule "vinicius"]
+	path = vinicius
+	url = https://github.com/788449534200421soares/vinicius.git
